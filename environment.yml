@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - anyio=2.2.0
-  - appnope=0.1.2
   - argon2-cffi=20.1.0
   - async_generator=1.10
   - attrs=20.3.0
@@ -35,7 +34,6 @@ dependencies:
   - jupyterlab=3.0.11
   - jupyterlab_pygments=0.1.2
   - jupyterlab_server=2.3.0
-  - libcxx=10.0.0
   - libedit=3.1.20191231
   - libffi=3.3
   - libsodium=1.0.18
